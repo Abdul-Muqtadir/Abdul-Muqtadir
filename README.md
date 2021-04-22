@@ -39,7 +39,7 @@
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/abdul-muqtadir-yaseen-a548371a9/">
-    <img src="https://img.shields.io/badge/linkedin-mahad-ansar-blue">
+    <img src="https://img.shields.io/badge/linkedin-mahad--ansar-blue">
   </a>
 </p>
 </h1>
